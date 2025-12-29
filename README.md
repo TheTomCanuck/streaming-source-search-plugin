@@ -14,6 +14,7 @@ A plugin for OBS Studio that adds a searchable source browser dock. Search acros
 - Double-click to open source properties
 - Right-click context menu for properties and filters
 - Configurable hotkey to focus the search dock
+- Dynamic drop down menus show only types you have. No clutter of options
 
 ## License
 
